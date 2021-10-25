@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net5.0</TargetFramework>
+		<RootNamespace>ViewPointFinder</RootNamespace>
+	</PropertyGroup>
+	
+	<ItemGroup>
+	  <ProjectReference Include="..\ViewPointFinderLib\ViewPointFinderLib.csproj" />
+	</ItemGroup>
+
+</Project>
